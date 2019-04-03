@@ -1,0 +1,3 @@
+include ':slidingMenu'
+include ':library_zhy_progressbar'
+include ':moneyCharge'

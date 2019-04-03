@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/CustomMultiChoiceDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/MenuFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/MyAdspter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/PieChart.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/PieView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/PiewController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/chart/PullToRefreshView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/About.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/AddPay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/Author.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/Config.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/Constants.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/CrashApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/CrashHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/Description.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/DialogShowUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/DigitUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/FragmentPage2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/FragmentPage4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/InPtypeManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/IncomeData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/ModifyInP.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/PayChart.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/PayData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/SearchActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/cmoneycharge/SettingActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/pattern/CreateGesturePasswordActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/pattern/GuideGesturePasswordActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/pattern/LockPatternUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/pattern/UnlockGesturePasswordActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/cwp/pattern/UpdateManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/AlbumHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/Bimp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/FileUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/ImageBucket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/ImageGridActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/ImageItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/PhotoActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/PublishedActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/example/testpic/TestPicActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/com/umeng/fb/example/CustomActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/AccountDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/DBOpenHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/IncomeDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/ItypeDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/NoteDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/PayDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/dao/PtypeDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/model/Tb_income.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/model/Tb_itype.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/model/Tb_pay.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/moneyCharge/src/main/java/cwp/moneycharge/model/Tb_ptype.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

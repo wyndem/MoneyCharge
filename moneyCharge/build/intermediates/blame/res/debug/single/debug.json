@@ -1,0 +1,1814 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb_send_btn_unpressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\fb_send_btn_unpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_addpic_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_addpic_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_scrollbar_handle_vertical.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account_edit_top.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\account_edit_top.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_qtsr_jysd.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_qtsr_jysd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_frame_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\frame_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_slidingmenumain.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\slidingMenu\\build\\intermediates\\packaged_res\\debug\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_corner_f2f2f2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\corner_f2f2f2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account_edit_bottom1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\account_edit_bottom1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jrbx_xfss.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_jrbx_xfss.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\color_tab_myfeed_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\color\\tab_myfeed_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_btn_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_btn_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_lv_item_for_metadata_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_lv_item_for_metadata_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_gvitem.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\gvitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_in_2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_chart_right_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\chart_right_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_text_while.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\text_while.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_line3.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_line3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_titlebar_bg_nor.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\titlebar_bg_nor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report_bar_chart_tab_indicator_bg_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\report_bar_chart_tab_indicator_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_account.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_account.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_popwindow_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\popwindow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jrbx_ajhk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_jrbx_ajhk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_search_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_search_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_shanchu_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_animation_2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\animation_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_preview_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\preview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gesture_pattern_item_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\gesture_pattern_item_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_fragnew_3.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\fragnew_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account_edit_middle.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\account_edit_middle.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_record.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_infomanage.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\infomanage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xianjian03.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\xianjian03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr_tzsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr_tzsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_point.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_point.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_expanded_up.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_expanded_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_fragment_5.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\fragment_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_fade_ins.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_data_select.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bottom_more.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\bottom_more.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bt_shanchu.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bt_shanchu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chinapay_help_bank_list_icon1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\chinapay_help_bank_list_icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_row_stat_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\main_row_stat_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_checkbox.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_add_toolbar_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_add_toolbar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_home_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_home_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb_msg_tip.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\fb_msg_tip.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_line5.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_line5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_fb_send_btn_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\fb_send_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_bottom_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_trans_paper_top_row.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\add_trans_paper_top_row.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_note.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\note.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_paydata.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\paydata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_style_04.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\library_zhy_progressbar\\build\\intermediates\\packaged_res\\debug\\drawable\\style_04.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_welcome_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\welcome_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_security_password_et_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\security_password_et_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skin_common_btn_red_disabled.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_custom_fb_dev_reply.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\custom_fb_dev_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_higher_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_higher_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_short_left_seleted.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_short_left_seleted.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skin_common_btn_green_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_tab_friendfeed_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\tab_friendfeed_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_friendfeed_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_friendfeed_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\raw_bdspeech_recognition_start.mp3.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\raw\\bdspeech_recognition_start.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_locate_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\locate_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_setting.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\raw_bdspeech_recognition_success.mp3.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\raw\\bdspeech_recognition_success.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_common_btn_red.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\common_btn_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bt_quxiao.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bt_quxiao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mymoney_bg.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\mymoney_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_trans_income_bottom_row_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\add_trans_income_bottom_row_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_child.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_bar_bg.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\menu_bar_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_divider.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_name_et_bg_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\name_et_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jrbx.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_jrbx.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_softupdate_progress.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\softupdate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_default_avatar.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\login_default_avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_toolbar_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_toolbar_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_fragment_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_add.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_scroll_switch_account.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\main_scroll_switch_account.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_location.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_plusback.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\toolbar_plusback.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_queding_unfocused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_skin_color_button.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\skin_color_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_activity_bg_src.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\main_activity_bg_src.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_shake_x.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_application_bg_welcome.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\application_bg_welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_footer.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_footer.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_login_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\btn_login_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_selected_transparence.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_selected_transparence.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_yysb.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\yysb.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_titlebar_common_btn_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_titlebar_common_btn_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_titlebar_common_btn_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_titlebar_common_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_7.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_7.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_push_bottom_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seabar_input.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\seabar_input.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard_income.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\keyboard_income.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_lyyp_hwzb.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_lyyp_hwzb.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_gif.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_gif.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_modifynote.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\modifynote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_project_indicator_4.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\project_indicator_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\menu_index.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\menu\\index.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_bombbox.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\bg_bombbox.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_a.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_refresh_header.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_higher_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_higher_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb_user_reply_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\fb_user_reply_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_keyboard_key.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\keyboard_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image_cry_man.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\image_cry_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_bg5_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_bg5_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_spjs_zwwc.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_spjs_zwwc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_gesturepassword_unlock.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\gesturepassword_unlock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_quxiao_unfocused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_chart_left_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\chart_left_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_budget.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_budget.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_refresh_footer.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\refresh_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_add_expense_quickly.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\main_add_expense_quickly.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\abc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_diary.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_diary.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_xxyl_wg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_xxyl_wg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_app_list_corner_border.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\app_list_corner_border.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_showinfo.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\showinfo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_project_indicator_3.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\project_indicator_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_qtsr_ywlq.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_qtsr_ywlq.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_quxiao_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_register.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_toolbar_btn_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_toolbar_btn_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_0.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_0.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\color_tab_friendfeed_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\color\\tab_friendfeed_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_fragment_2.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_index.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_search_button_type.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\search_button_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\library_zhy_progressbar\\build\\intermediates\\packaged_res\\debug\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_modifyinp.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\modifyinp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard_delete.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\keyboard_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_expense_camera_btn_normal_2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\expense_camera_btn_normal_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_suite_info_save_btn_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\suite_info_save_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_add_expense_quickly_new_selected.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\main_add_expense_quickly_new_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_list.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_year_trans_next_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_year_trans_next_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_tab_myfeed_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\tab_myfeed_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_shadow.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_short_left.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_short_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_fragment_3.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_item_popupwindows.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_form_add_btn.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\form_add_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\raw_bdspeech_recognition_error.mp3.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\raw\\bdspeech_recognition_error.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xianjian01.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\xianjian01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_public_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_public_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qq.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\qq.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_paychart.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\paychart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_more_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_more_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_pidata.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\pidata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_short_right_seleted.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_short_right_seleted.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_yfsp.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_yfsp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xianjian02.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\xianjian02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_item_published_grida.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_expense_camera_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\expense_camera_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_fragment_4.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\fragment_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_bg3_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_bg3_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_myhome_visitor_number.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\myhome_visitor_number.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gesture_create_grid_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\gesture_create_grid_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_item_image_grid.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_inptypemanager.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\inptypemanager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr_gzsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr_gzsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_up.gif.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_up.gif"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_trans_paper_middle_row_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\add_trans_paper_middle_row_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_short_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_short_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pulltorefresh_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\ic_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_style_02.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\library_zhy_progressbar\\build\\intermediates\\packaged_res\\debug\\drawable\\style_02.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_bg_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\toolbar_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_row_stat_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\main_row_stat_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_bucket.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_image_bucket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_top_month_report_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\main_top_month_report_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_line1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_line1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_medical_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_medical_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_expense_camera_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\expense_camera_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_in_from_right.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bt_nobgd.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_out_to_left.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_animation_1.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\animation_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_lv_empty_tips.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_lv_empty_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb_default_dev_portrait.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\fb_default_dev_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\xml_symbols_num.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\xml\\symbols_num.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_dialog_multichoice_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\dialog_multichoice_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_xcjt_dczc.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_xcjt_dczc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_data.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_title.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\list_title.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_gesturepassword_guide.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\gesturepassword_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_search.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jjwy_rcyp.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_jjwy_rcyp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xianjian04.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\xianjian04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_item_image_bucket.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\item_image_bucket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_line2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_line2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_dialog_multichoice_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\dialog_multichoice_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_toolbar_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_toolbar_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_custom_view.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\custom_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_shake_y.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\shake_y.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_qtzx.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_qtzx.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_bg4_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_bg4_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr_lxsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr_lxsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_left_buttom_pressd.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\left_buttom_pressd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_hold.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mask_piechartformymoney.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-mdpi\\mask_piechartformymoney.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_year_trans_pre_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_year_trans_pre_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_style_01.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\library_zhy_progressbar\\build\\intermediates\\packaged_res\\debug\\drawable\\style_01.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_gesturepassword_create.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\gesturepassword_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_bg1_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_bg1_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\toolbar_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skin_common_btn_red_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\xml_menu.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\xml\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_shanchu_unfocused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_8.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_spinner.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_note.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_year_trans_pre_btn_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_year_trans_pre_btn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_c.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_trans_income_memo_row_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\add_trans_income_memo_row_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_corner_e0e0e0.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\corner_e0e0e0.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cancel_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_cancel_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_report.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_report.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_toolbar_btn_small.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_toolbar_btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_style_03.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\library_zhy_progressbar\\build\\intermediates\\packaged_res\\debug\\drawable\\style_03.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gesture_guide_pic.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\gesture_guide_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_account.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_higher_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_higher_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_divider.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_xxjx_smzb.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_xxjx_smzb.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_right_buttom_pressd.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\right_buttom_pressd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_screen_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\splash_screen_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_6.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_myfeed_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_myfeed_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_corner_bdbdbd.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\corner_bdbdbd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\raw_bdspeech_recognition_cancel.mp3.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\raw\\bdspeech_recognition_cancel.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chinapay_help_bank_list_icon2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\chinapay_help_bank_list_icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_incomedata.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\incomedata.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_rqwl_slqk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_rqwl_slqk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_interpolator_cycle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\interpolator_cycle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_year_trans_next_btn_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_year_trans_next_btn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr_jzsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr_jzsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_setting.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_login_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\btn_login_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report_pie_chart_tab_indicator_bg_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\report_pie_chart_tab_indicator_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_qtsr_ljsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_qtsr_ljsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_toggle_account_popu_btn_expanded.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\toggle_account_popu_btn_expanded.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report_bar_chart_tab_indicator_bg_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\report_bar_chart_tab_indicator_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_chart_silding_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\chart_silding_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_repay.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_repay.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_pic.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_life_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_life_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_shine_btn_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-mdpi\\common_shine_btn_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb_dev_reply_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\fb_dev_reply_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\color_tab_home_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\color\\tab_home_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_login_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_changepwd.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\changepwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_transcolor.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\transcolor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jltx_sjf.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_jltx_sjf.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_locate.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\locate.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_friendfeed_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_friendfeed_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard_done_2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\keyboard_done_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_common_btn_green.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\common_btn_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_line4.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_line4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\toolbar_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_myfeed_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_myfeed_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_author.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\author.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bg_border.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bg_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_btn_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_btn_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_higher_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_higher_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_trans_paper_middle_row_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\add_trans_paper_middle_row_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_home_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_home_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_tab_more_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\tab_more_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skin_common_btn_green_disable.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_disable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_common_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-mdpi\\common_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard_done.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\keyboard_done.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_row_stat_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\main_row_stat_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_search_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\search_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gesture_create_grid_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\gesture_create_grid_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toolbar_plus.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\toolbar_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_qtsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_qtsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skin_common_btn_green_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_green_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_locate_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\locate_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_hint.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\hint.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\raw_bdspeech_speech_end.mp3.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\raw\\bdspeech_speech_end.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_more_btn_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\tab_more_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_push_up_in.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard_voice.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\keyboard_voice.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb_input_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\fb_input_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_top.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cancel_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\btn_cancel_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\notification_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_nodata.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\nodata.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gesture_pattern_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\gesture_pattern_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_clear_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_income.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_search_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_expanded.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_expanded.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_arrow_down.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_right_buttom.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\right_buttom.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_exit.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_custom_fb_user_reply.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\custom_fb_user_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr_jjsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr_jjsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_press.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_press.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\color_cost_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\color\\cost_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_transparent.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bt_add_pic.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bt_add_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr_jbsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr_jbsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_left_buttom.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\left_buttom.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_description.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\description.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_toolbar_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_toolbar_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_spjs.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_spjs.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_down.gif.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_down.gif"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\color_tab_more_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\color\\tab_more_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_photo.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_btn_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_btn_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_left_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\left_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_card_avatar.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\card_avatar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account_edit_bottom.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\account_edit_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_skin_common_btn_red_unpressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\skin_common_btn_red_unpressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_left_sildselect.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\left_sildselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bgd_relatly_line.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bgd_relatly_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb_send_btn_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\fb_send_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_keyboard_pay.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\keyboard_pay.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_3.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_btn_bg_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cancel.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\btn_cancel.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_addnote.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\addnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_btn_unpress.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\btn_unpress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_common_list_item_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\common_list_item_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_setting_middle_new_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\setting_middle_new_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_line6.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_line6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_traffic_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_traffic_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report_pie_chart_tab_indicator_bg_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\report_pie_chart_tab_indicator_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_suite_info_save_btn_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\suite_info_save_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_addphoto_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\addphoto_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_left_sild.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\left_sild.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_bg.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\main_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_back2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\btn_back2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_selectimg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_show_trans_back_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\show_trans_back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_shake.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_locate_loading.gif.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\locate_loading.gif"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_tab_home_btn.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\tab_home_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_bg6_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_bg6_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_pay.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_calendar_week.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\calendar_week.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_payout_tab_btn_radio.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\payout_tab_btn_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_pay.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\pay.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_queding_focused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_5.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_card_list_bg2_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\card_list_bg2_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_go_detail_arrow.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\go_detail_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_data.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\data.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_name_et_bg_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\name_et_bg_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_qtsr_zjsr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_qtsr_zjsr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_jrbx_lxzc.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_jrbx_lxzc.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\aea8e7cc2b3c09f5ffbbff4791659d79\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_arrow_up.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_key_4.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xxhdpi\\key_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_addincome.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\addincome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_row_stat.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\main_row_stat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_description.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_service_live_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\service_live_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rect_white_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\rect_white_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_zysr.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\icon_zysr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_write_operation_talk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\write_operation_talk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb_default_user_portrait.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\fb_default_user_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pulltorefresh_arrow_up.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\ic_pulltorefresh_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_add_expense_quickly_new_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\main_add_expense_quickly_new_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\anim_push_up_out.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_form_row_input_middle_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\form_row_input_middle_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable_bt_queding.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable\\bt_queding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_income_tab_btn_radio.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\income_tab_btn_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_lv_item_for_metadata_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_lv_item_for_metadata_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_voice_setting.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\voice_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_common_transparence.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\common_transparence.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_addpay.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\addpay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\42a9aa25ee33a4e4abcd1d48363165ce\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_income.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\income.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_grid.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_report_activity_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-mdpi\\report_activity_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_addpic_unfocused.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gesture_pattern_selected_wrong.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\gesture_pattern_selected_wrong.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nav_to_message_arrow_dark.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\src\\main\\res\\drawable-xhdpi\\nav_to_message_arrow_dark.png"
+    }
+]

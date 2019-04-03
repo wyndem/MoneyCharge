@@ -1,0 +1,454 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+MERGED from [:slidingMenu] C:\Users\Administrator\Desktop\MoneyCharge\slidingMenu\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:library_zhy_progressbar] C:\Users\Administrator\Desktop\MoneyCharge\library_zhy_progressbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2181a9a98e875c1241370d91205e8656\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\42a9aa25ee33a4e4abcd1d48363165ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\48afcf18201e50143fd31d15dfcb408f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0a92660d37b7b1940263d3239bc7774\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cc97e960173a42493dc3f8d17fd4ce00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\788f51882258f218d96dc2c2eb3b7a3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f170203728d32c06cdd2cccd585d526b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59f2db48098db0c9a210cbd24360a6aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08f9c2eaca50595246ae38395fa799be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f61b3f53c4219437c9c9328626e9abab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\71ce107ed28dcc7c977f804ff49bf922\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\583efdc5caec578569ae34a476a36937\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90c0f813de6d491f5e13ac8897212c14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dd800448d183e6eb6b0b5d28b6835dfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51416b1a4aa7ad5e2e973fe002b47cfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f061f736370da7c55cdc218d09f3edb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3d5a563efbd88172ea1977c88b27a5a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af0c785f77b5f3e6f048d9c11730fc4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\146bd14fb779ac8d51adfad57f4d78ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\deaf243e9f49c40c216eac0be2904d34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b859c149f920df432e4de97010f12edf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c1660fc1e11c66bb49e5004c74f27c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2f08568158d4789888b79d20e322ecf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:1-129:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:18:22-65
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:21:19-67
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:24:22-81
+application
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:26:5-127:19
+MERGED from [:library_zhy_progressbar] C:\Users\Administrator\Desktop\MoneyCharge\library_zhy_progressbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [:library_zhy_progressbar] C:\Users\Administrator\Desktop\MoneyCharge\library_zhy_progressbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:29:9-45
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:27:9-41
+meta-data#com.amap.api.v2.apikey
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:32:9-34:64
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:33:13-50
+meta-data#UMENG_APPKEY
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:35:9-37:56
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:36:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:39:9-42:21
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:40:13-48
+meta-data#UMENG_CHANNEL
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:44:9-46:37
+	android:value
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:46:13-34
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:45:13-41
+activity#com.cwp.cmoneycharge.MainActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:48:9-56:20
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:49:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:54:27-74
+activity#com.cwp.cmoneycharge.About
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:57:9-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:57:19-60
+activity#com.cwp.cmoneycharge.Account
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:58:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:58:19-62
+activity#com.cwp.cmoneycharge.AddIncome
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:59:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:59:19-64
+activity#com.cwp.cmoneycharge.AddNote
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:60:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:60:19-62
+activity#com.cwp.cmoneycharge.AddPay
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:61:9-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:61:19-61
+activity#com.cwp.cmoneycharge.Author
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:62:9-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:62:19-61
+activity#com.cwp.cmoneycharge.ChangePwd
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:63:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:63:19-64
+activity#com.cwp.cmoneycharge.Data
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:64:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:64:19-59
+activity#com.cwp.cmoneycharge.Description
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:65:9-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:65:19-66
+activity#com.cwp.cmoneycharge.Income
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:66:9-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:66:19-61
+activity#com.cwp.cmoneycharge.IncomeData
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:67:9-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:67:19-65
+activity#com.cwp.cmoneycharge.InPtypeManager
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:68:9-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:68:19-69
+activity#com.cwp.cmoneycharge.Login
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:69:9-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:69:19-60
+activity#com.cwp.cmoneycharge.ModifyInP
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:70:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:70:19-64
+activity#com.cwp.cmoneycharge.ModifyNote
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:71:9-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:71:19-65
+activity#com.cwp.cmoneycharge.Note
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:72:9-62
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:72:19-59
+activity#com.cwp.cmoneycharge.Pay
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:73:9-61
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:73:19-58
+activity#com.cwp.cmoneycharge.PayData
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:74:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:74:19-62
+activity#com.cwp.cmoneycharge.PIData
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:75:9-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:75:19-61
+activity#com.cwp.cmoneycharge.Register
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:76:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:76:19-63
+activity#com.cwp.cmoneycharge.Setting
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:77:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:77:19-62
+activity#cwp.moneycharge.dao.AccountDAO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:78:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:78:19-64
+activity#cwp.moneycharge.dao.DBOpenHelper
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:79:9-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:79:19-66
+activity#cwp.moneycharge.dao.IncomeDAO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:80:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:80:19-63
+activity#cwp.moneycharge.dao.ItypeDAO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:81:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:81:19-62
+activity#cwp.moneycharge.dao.NoteDAO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:82:9-64
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:82:19-61
+activity#cwp.moneycharge.dao.PayDAO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:83:9-63
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:83:19-60
+activity#cwp.moneycharge.dao.PtypeDAO
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:84:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:84:19-62
+activity#cwp.moneycharge.model.ActivityManager
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:85:9-74
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:85:19-71
+activity#cwp.moneycharge.model.CustomDialog
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:86:9-71
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:86:19-68
+activity#cwp.moneycharge.model.Datapicker
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:87:9-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:87:19-66
+activity#cwp.moneycharge.model.KindData
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:88:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:88:19-64
+activity#cwp.moneycharge.model.Tb_account
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:89:9-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:89:19-66
+activity#cwp.moneycharge.model.Tb_income
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:90:9-68
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:90:19-65
+activity#cwp.moneycharge.model.Tb_itype
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:91:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:91:19-64
+activity#cwp.moneycharge.model.Tb_note
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:92:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:92:19-63
+activity#cwp.moneycharge.model.Tb_pay
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:93:9-65
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:93:19-62
+activity#cwp.moneycharge.model.Tb_ptype
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:94:9-67
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:94:19-64
+activity#com.cwp.cmoneycharge.SettingActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:95:9-73
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:95:19-70
+activity#com.cwp.cmoneycharge.PayChart
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:96:9-66
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:96:19-63
+activity#com.umeng.fb.example.CustomActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:97:9-72
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:97:19-69
+activity#com.example.testpic.PublishedActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:98:9-100:54
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:100:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:99:13-65
+activity#com.cwp.cmoneycharge.SearchActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:101:9-104:68
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:104:13-65
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:103:13-51
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:102:13-63
+activity#com.cwp.pattern.CreateGesturePasswordActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:105:9-107:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:106:13-73
+activity#com.cwp.pattern.GuideGesturePasswordActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:108:9-110:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:110:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:109:13-72
+activity#com.cwp.pattern.UnlockGesturePasswordActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:111:9-113:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:112:13-73
+activity#com.example.testpic.ImageGridActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:114:9-117:20
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:116:13-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:115:13-65
+activity#com.example.testpic.TestPicActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:118:9-122:20
+	android:configChanges
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:120:13-63
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:121:13-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:119:13-63
+activity#com.example.testpic.PhotoActivity
+ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:123:9-126:20
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:125:13-60
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml:124:13-61
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+MERGED from [:slidingMenu] C:\Users\Administrator\Desktop\MoneyCharge\slidingMenu\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:slidingMenu] C:\Users\Administrator\Desktop\MoneyCharge\slidingMenu\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library_zhy_progressbar] C:\Users\Administrator\Desktop\MoneyCharge\library_zhy_progressbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library_zhy_progressbar] C:\Users\Administrator\Desktop\MoneyCharge\library_zhy_progressbar\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2181a9a98e875c1241370d91205e8656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\2181a9a98e875c1241370d91205e8656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\42a9aa25ee33a4e4abcd1d48363165ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\42a9aa25ee33a4e4abcd1d48363165ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\48afcf18201e50143fd31d15dfcb408f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\48afcf18201e50143fd31d15dfcb408f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0a92660d37b7b1940263d3239bc7774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e0a92660d37b7b1940263d3239bc7774\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cc97e960173a42493dc3f8d17fd4ce00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cc97e960173a42493dc3f8d17fd4ce00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\788f51882258f218d96dc2c2eb3b7a3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\788f51882258f218d96dc2c2eb3b7a3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f170203728d32c06cdd2cccd585d526b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f170203728d32c06cdd2cccd585d526b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59f2db48098db0c9a210cbd24360a6aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\59f2db48098db0c9a210cbd24360a6aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08f9c2eaca50595246ae38395fa799be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\08f9c2eaca50595246ae38395fa799be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f61b3f53c4219437c9c9328626e9abab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f61b3f53c4219437c9c9328626e9abab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\71ce107ed28dcc7c977f804ff49bf922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\71ce107ed28dcc7c977f804ff49bf922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\583efdc5caec578569ae34a476a36937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\583efdc5caec578569ae34a476a36937\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90c0f813de6d491f5e13ac8897212c14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\90c0f813de6d491f5e13ac8897212c14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\aea8e7cc2b3c09f5ffbbff4791659d79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\3bbba911331a93679b91bd840bd62d70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dd800448d183e6eb6b0b5d28b6835dfd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\dd800448d183e6eb6b0b5d28b6835dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51416b1a4aa7ad5e2e973fe002b47cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\51416b1a4aa7ad5e2e973fe002b47cfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f061f736370da7c55cdc218d09f3edb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\f061f736370da7c55cdc218d09f3edb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3d5a563efbd88172ea1977c88b27a5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\3d5a563efbd88172ea1977c88b27a5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af0c785f77b5f3e6f048d9c11730fc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\af0c785f77b5f3e6f048d9c11730fc4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\146bd14fb779ac8d51adfad57f4d78ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\146bd14fb779ac8d51adfad57f4d78ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\deaf243e9f49c40c216eac0be2904d34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\deaf243e9f49c40c216eac0be2904d34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b859c149f920df432e4de97010f12edf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b859c149f920df432e4de97010f12edf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c1660fc1e11c66bb49e5004c74f27c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6c1660fc1e11c66bb49e5004c74f27c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2f08568158d4789888b79d20e322ecf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b2f08568158d4789888b79d20e322ecf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\MoneyCharge\moneyCharge\src\main\AndroidManifest.xml

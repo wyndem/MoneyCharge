@@ -1,0 +1,4 @@
+#Wed Apr 03 16:16:24 CST 2019
+base.0=C\:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

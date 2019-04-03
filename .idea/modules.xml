@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MoneyCharge.iml" filepath="$PROJECT_DIR$/MoneyCharge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_zhy_progressbar/library_zhy_progressbar.iml" filepath="$PROJECT_DIR$/library_zhy_progressbar/library_zhy_progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moneyCharge/moneyCharge.iml" filepath="$PROJECT_DIR$/moneyCharge/moneyCharge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingMenu/slidingMenu.iml" filepath="$PROJECT_DIR$/slidingMenu/slidingMenu.iml" />
+    </modules>
+  </component>
+</project>

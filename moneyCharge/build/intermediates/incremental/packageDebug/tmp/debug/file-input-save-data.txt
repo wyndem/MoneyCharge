@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Apr 03 16:16:25 CST 2019
+1.base=C\:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=NATIVE_RESOURCE
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=lib/mips/libBDVoiceRecognitionClient_MFE_V1.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=lib/armeabi/libBDVoiceRecognitionClient_MFE_V1.so
+3.base=C\:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.set=NATIVE_RESOURCE
+0.base=C\:\\Users\\Administrator\\Desktop\\MoneyCharge\\moneyCharge\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.baseType=DIRECTORY
+1.path=lib/x86/libBDVoiceRecognitionClient_MFE_V1.so
